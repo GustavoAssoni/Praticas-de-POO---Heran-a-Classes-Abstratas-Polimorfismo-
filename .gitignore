@@ -33,3 +33,15 @@ bin/
 /out/
 /bin/
 .idea/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Compilados Java
+*.class
+/out/
+/bin/
+
+# Sistema
+.DS_Store
